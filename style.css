@@ -9,7 +9,7 @@ body {
     width: 100%;
     border: 5px solid black;
     box-sizing: border-box;
-    position: relative; /* Para posicionamento absoluto interno */
+    position: relative;
 }
 
 .map-title {
